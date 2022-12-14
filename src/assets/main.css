@@ -1,0 +1,16 @@
+
+h1 {
+  color: greenyellow;
+  padding-left: 3%;
+  margin-top: 1%;
+  font-size: 3em;
+}
+body {
+  margin: 0;
+  background-color: black;
+}
+a {
+  color: greenyellow;
+  text-decoration: none;
+  padding-left: 6%;
+}
